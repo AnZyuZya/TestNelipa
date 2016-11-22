@@ -1,6 +1,4 @@
-# TestNelipa
-Acceptic Test task
-
+# Test task by Ruslan Nelipa
 
 I want a small app with login window using google plus account, and if the login is correct, it open a new window with 2 head tabs (framgents) to switch between them (dummy content just to see the difference).
 when the app is opened, it will automatically start a service.
