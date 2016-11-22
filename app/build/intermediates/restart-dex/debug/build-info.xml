@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="78934095314962"
+    token="-6962265741852862873"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2605" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="23" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="78741057225481"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="D:\WORK\Acceptic\TestNelipa\app\build\outputs\apk\TestNelipa_debug_1.0.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="78934095314962"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="167397067706442"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

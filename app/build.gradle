@@ -1,0 +1,128 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.neenbedankt.android-apt'
+apply plugin: 'me.tatarka.retrolambda'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId "com.nelipa.test"
+        minSdkVersion 16
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    project.ext { appName = 'TestNelipa' }
+                    def newName = output.outputFile.name
+                    newName = newName.replace("app-", "$project.ext.appName" + "_")
+                    //noinspection GroovyAssignabilityCheck
+                    output.outputFile = new File(output.outputFile.parent, newName)
+                }
+            }
+        }
+
+        debug {
+            debuggable true
+
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    project.ext { appName = 'TestNelipa' }
+                    def newName = output.outputFile.name
+                    newName = newName.replace("app-", "$project.ext.appName" + "_")
+                    newName = newName.replace("-debug", "debug_")
+                    newName = newName.replace(".apk", "_" + defaultConfig.versionName + ".apk")
+                    //noinspection GroovyAssignabilityCheck
+                    output.outputFile = new File(output.outputFile.parent, newName)
+                }
+            }
+        }
+    }
+
+    dexOptions {
+        javaMaxHeapSize "12048M"
+        jumboMode = true
+    }
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+buildscript {
+    repositories {
+        jcenter()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+    }
+
+    dependencies {
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+        classpath 'me.tatarka:gradle-retrolambda:3.2.5'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    testCompile 'junit:junit:4.12'
+}
+
+repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+    maven { url "https://clojars.org/repo/" }
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+    maven { url 'https://dl.bintray.com/bigmercu/maven/' }
+}
+
+ext {
+    supportLibraryVersion = '25.0.0'
+    googleServices = '9.8.0'
+    icePick = '3.2.0'
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    //testing and logging
+    compile 'com.jakewharton.timber:timber:4.1.2'
+    testCompile 'junit:junit:4.12'
+
+    //savestate
+    compile "frankiesardo:icepick:$icePick"
+    provided "frankiesardo:icepick-processor:$icePick"
+
+    //multidex
+    compile 'com.android.support:multidex:1.0.1'
+
+    //design and UI
+    compile "com.android.support:support-v4:$supportLibraryVersion"
+    compile "com.android.support:design:$supportLibraryVersion"
+    compile "com.android.support:appcompat-v7:$supportLibraryVersion"
+    compile 'com.github.gilgoldzweig:EasyTab:1.1.2'
+
+    //communication
+    compile 'org.greenrobot:eventbus:3.0.0'
+
+    //dependency injection
+    apt 'com.google.dagger:dagger-compiler:2.2'
+    provided 'javax.annotation:jsr250-api:1.0'
+    compile 'com.google.dagger:dagger:2.2'
+    compile 'com.jakewharton:butterknife:7.0.1'
+
+    //social networks
+    compile "com.google.android.gms:play-services-plus:$googleServices"
+    compile "com.google.android.gms:play-services-auth:$googleServices"
+}
+apply plugin: 'com.google.gms.google-services'

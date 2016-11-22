@@ -1,0 +1,7 @@
+#Tue Nov 22 22:27:01 EET 2016
+base.0=D\:\\WORK\\Acceptic\\TestNelipa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2243a39a281a00fa29c5a3f5e163d2e24622eb80
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\WORK\\Acceptic\\TestNelipa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cef8e62c23edda9dd3ff72ab6d5f9125aeb86677\\classes.dex
+base.1=D\:\\WORK\\Acceptic\\TestNelipa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cef8e62c23edda9dd3ff72ab6d5f9125aeb86677
+file.0=D\:\\WORK\\Acceptic\\TestNelipa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2243a39a281a00fa29c5a3f5e163d2e24622eb80\\classes.dex

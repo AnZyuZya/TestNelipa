@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Soft\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_6ea603449e1c51f7353037093d325799b9437da0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_f52e024378208d01312eebb61854d169c8c127f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_1b6ee6b98030639695b8e2864383078d4f666db0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_b2f49508bf668153491b45f1d30f74ceac0e4cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_3115235c39f6f7cf0afcf8c1b79a36d887cbda83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3b0ca424a4cde00da633a7c6c4bc5b059ed143c">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cef8e62c23edda9dd3ff72ab6d5f9125aeb86677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_0cf37aa6c7354d901cab01d6da1fb09d3772c266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_149062d7e5345b1d7039cd3db5104ce1cea6ee50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_c81907c7f24ec5a9ef22006c3a43249a1f29caec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fa977382c8979840d8f343e26656f5ea14f3b8df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.github.gilgoldzweig\EasyTab\1.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d670cedb7ba1bf7947f50a6134e2007c321299b6">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.gilgoldzweig-EasyTab-1.1.2_c94d2d73dbee04d53df639d8442cbf9964045ba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_2990e835801b3ca02e8faed596cde6b3aa560217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a4a0d54c8ed0d3b9e4f871ea3bb2a3d27cc8eca4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8c18e252f332a2129875b5ae6cfe43e6f516ae1">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2243a39a281a00fa29c5a3f5e163d2e24622eb80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_d6f89bf99ba3bd3d494397ed8523f02055f0515c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_cb9a60afd4b81fbd28819de67eb4a9b8af077793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_3c309904c5cecb604d773876bfcd615c236ef6d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c3e3b2abd2077e3023b23a3064de72f67173755b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_3a40284bc958b2ad9ebe8f9bd5f27a80733cd381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_53b0064d7f25ae25c7724975a673ea4db5501f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f4f2f910c868be388d7904d635bf017f5beb707">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cf280c2aa177b2e10180700d87128047e63f986d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_0d185ac7f4f79369ffa2bf2f104132517ae42ac9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_c80d56374f054c524036488ba43e41fd34b922d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_28965fd835600c0f37023433661db11a055deb83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_b6c3c25735ec5610be619a18e4d5d9eb83625e71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_280b317141886e15521fc320e8fc7c2a7ff23ee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_0cf55b422c5bb3f9cffdca45fdb121c7a02c2a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_f74ebb2122fc01ec0163848558f139688bf7ca1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.timber-timber-4.1.2_e9287726c8f587e616bf8d47a3daaa97a9bec0d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_3ac88ceaa75e4a7866d325f7ccbf692888d19584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_704678403bd2fde8d6ce2765a5debc9be6ca770e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_b77b0d35924da8643e0891010b5e741ab6b41016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_543bba375a2cff388164ff76c55a930c458f4ebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_cf9e3b1b8078f25b26f8c287105129e52253c37b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_776eb53edaf8d4856980985844d56b23bd99047f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_725bed4144686460b1ec397b98176d810bb44f04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_7ddbe04c337304823bfc6ff4149e13b3b9513026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_258f003a0b7584a1861b12b5d33b472bda2f0976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_e065160b79feb8b05d1caeacf589fb4451460dfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_9ec1b9de60ddd517f3eb969dc8361c146defd7f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_e8f373f131fa067c2ca82b13c2f1a7c1adb07c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_83a92c12ed7f02a51617768eda34ea9a32df51b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_9068f4ec86fbef946aa3e237616ca886ffb98668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AnZyuZya\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_fe902f397caf957bfbce19dfbaed1eaad66f9bfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_14fb3581ec6247f0a28ed3a5c8122ae6ee0cf531\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_6cb1759bb9294a05b2520287f2f0a5c8ce1e258e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b9717d9bcef402d06e96025fdad4a46d75751f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_8e0cb123e03e5bc2f485a64248497b77588d0e21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_c61832a449dd7933ea6947232e16094607f792b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd0c752c00774fe7cb5e1c73a0d04409043c14b">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e689654a875ca4cce8140774df24e106d189e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AnZyuZya\.gradle\caches\modules-2\files-2.1\frankiesardo\icepick\3.2.0\5ab94f3bba3f9315532eb1ca5547d120c4f71dae\icepick-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ab94f3bba3f9315532eb1ca5547d120c4f71dae">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\icepick-3.2.0_7e08736547f1751d4ed73fd5b20a5a14ea0eed28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d85d35aced33abb484e18c4c2a9a27aa2755587d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_5626d028fb928f8657306d0ec0b7ee1207849f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_b4d677cfbdcc54af47ea3e90c91d2f23d1b8b9fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e4f9051adf09da1937ce6c35bc444851a8d5346f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.timber-timber-4.1.2_49bff8ae350dd474a519acea2ca200de1d2f2654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_f9aec455280403711e90da34a1793f75d5ba3b54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AnZyuZya\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.2\febfd2d9e89bde4c3a9723bcd9522cba96bddac7\dagger-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.2_e4109643a91fc08b8a2a84ceb15f3d381205fb77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_baa98b9c0daa56b594e76c800734b26e47de74db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_8b2f2408aef4b5002c668fe43915957fdd97ff81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AnZyuZya\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_04f7f01812b20acbcbc0cb8dd3f35b36e4b81651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d6a9d0111a8c91e389f23da619ab6727946e49e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_68a391f8263bd693f6d1f435164625b1d651bd5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_f51ad184d200df2008f6db5b8a9d6df88bb6c95d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_74774c7472c80d91a67a2e570b3153b236e205bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_4b6cafffe9de4b8dcf2bcaeeb083069523a0c435\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.github.gilgoldzweig\EasyTab\1.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d670cedb7ba1bf7947f50a6134e2007c321299b6">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.gilgoldzweig-EasyTab-1.1.2_c6a1cec40e48c894e022ea21bcc4867396d96f2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\WORK\Acceptic\TestNelipa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_695e3b95bc260a4a77a4cd6f72972a813ee00403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AnZyuZya\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_50243699f79d47d46dee826f98bb070933195971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WORK\Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\WORK\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_31bf46b66129b395209c1f714a599b81f73aabdd\classes.dex" />
+    </item>
+
+</items>

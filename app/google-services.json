@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047772059390",
+    "project_id": "firebase-testtask"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047772059390:android:ce83219f5d3f0e4d",
+        "android_client_info": {
+          "package_name": "com.nelipa.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047772059390-hkk9p9hmhnacnjr2d2571sqpscmt7rss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nelipa.test",
+            "certificate_hash": "F4D3E6D7439AFE68DE532AC6CB0436B7399E0176"
+          }
+        },
+        {
+          "client_id": "1047772059390-9ho2bu5glo51qeh0sp8774fbllaoafnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgTVENJJfPkpKTIDOXR9Pr03NMarHBkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
